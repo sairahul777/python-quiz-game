@@ -7,15 +7,15 @@ A simple console-based quiz game built in Python where users answer true/false q
 ## 📌 Features
 
 - Asks a series of true/false questions
-- 
+  
 - Accepts user input (`true` or `false`) in any letter case
-- 
+  
 - Checks answers and provides immediate feedback
-- 
+  
 - Tracks and displays current score after each question
-- 
+  
 - Shows final score at the end of the quiz
-- 
+  
 - Uses Object-Oriented Programming (OOP) with `Question` and `QuizBrain` classes for clean code structure  
 
 ---
@@ -24,13 +24,13 @@ A simple console-based quiz game built in Python where users answer true/false q
 ## 🛠️ Technologies Used
 
 - **Python 3:** Programming language used for building the project.
-- 
+  
 - **OOP Concepts:** Classes, objects, methods, and encapsulation.
-- 
+  
 - **Console I/O:** To interact with the user via terminal input and output.
-- 
+  
 - **Control Flow:** Loops and conditionals to manage quiz progression and validations.
-- 
+  
 
 
 ---
@@ -85,15 +85,15 @@ Q.5: In West Virginia, USA, if you accidentally hit an animal with your car, you
 ## 📋 Future Improvements
 
 - Add multiple-choice questions
-- 
+  
 - Implement a timer for each question
-- 
+  
 - Build a GUI using Tkinter or PyQt
-- 
+  
 - Load questions dynamically from external files (JSON/CSV)
-- 
+  
 - Add categories or difficulty levels
-- 
+  
 - Store and display high scores  
 
 ---
@@ -124,11 +124,11 @@ Q.5: In West Virginia, USA, if you accidentally hit an animal with your car, you
 ## ✅ Learning Highlights
 
 - Working with classes and objects in Python
--  
+  
 - Handling user inputs and validations
-- 
+  
 - Managing program flow using loops and conditionals
--  
+  
 - Building modular and readable code  
 
 
