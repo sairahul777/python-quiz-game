@@ -61,19 +61,31 @@ the correct answer is: False
 your current score is: 2/2
 
 
-Q.3: Approximately one quarter of human bones are in the feet. (True/False): ture
-thats wrong.
-the correct answer is: True
-your current score is: 2/3
-
-
-Q.4: The total surface area of a human lungs is the size of a football pitch. (True/False): true
+Q.3: Approximately one quarter of human bones are in the feet. (True/False): true
 you got it right
+the correct answer is: True
+your current score is: 3/3
+
+
+Q.4: The total surface area of a human lungs is the size of a football pitch. (True/False): false
+thats wrong.
 the correct answer is: True
 your current score is: 3/4
 
 
-Q.5: In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat. (True/False): 
+Q.5: In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat. (True/False): true
+you got it right
+the correct answer is: True
+your current score is: 4/5
+
+
+Q.6: In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral. (True/False): true
+thats wrong.
+the correct answer is: False
+your current score is: 4/6
+
+
+Q.7: It is illegal to pee in the Ocean in Portugal. (True/False):  
 
 
 </pre>
