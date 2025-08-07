@@ -45,7 +45,7 @@ A simple console-based quiz game built in Python where users answer true/false q
 
 ---
 
-## 📄 Example Usage
+## 📄 Example Output
 
 <pre>
 
